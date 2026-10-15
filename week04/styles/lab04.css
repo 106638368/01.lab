@@ -4,9 +4,9 @@ filename: lab04.css
 
 author: Ho Kim Hoan Nguyen
 
-created: 10/03/2026
+created: 03/10/2026
 
-last modified: 10/05/2026
+last modified: 0/10/2026
 
 description: lab04.html
 
@@ -81,3 +81,12 @@ nav a:hover {
     border-color: darkblue;
 }
 
+ 
+
+article > p { 
+    color: red;
+} 
+
+ul li:first-childS{ 
+    color: red;
+}
